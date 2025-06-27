@@ -1,9 +1,14 @@
-- 📚 Graduando em Sistemas de informação pela Universidade Federal de Ouro Preto.
+<h3>💬 Sobre</h3>
+
+- 📚 Estudante de Sistemas de Informação pela Universidade Federal de Ouro Preto.
+- 👨‍💻 Focando no aprimoramento para desenvolvimento de software e QA.
+
+---
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaB&theme=dracula&layout=compact&langs_count=7&width=400" alt="Top Langs" />
 </a>
-<h2>💻 Linguagens e Ferramentas</h2>
+<h4>💻 Linguagens e Ferramentas</h2>
 <div align="left"> 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -19,4 +24,15 @@
   </p>
 </div>
 
+---
 
+<h3>📫 Contato</h3>
+
+<p align="left">
+  <a href="mailto:caua8395@gmail.com" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cauabandeiranobre/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
