@@ -7,7 +7,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaB&show_icons=true&locale=en&hide=prs&theme=dracula&layout=compact"/>
 
-<h4>💻 Linguagens e Ferramentas</h2>
+<h3>💻 Linguagens e Ferramentas</h3>
 <div align="left"> 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
