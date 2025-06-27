@@ -4,10 +4,9 @@
 - 👨‍💻 Focando no aprimoramento para desenvolvimento de software e QA.
 
 ---
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaB&theme=dracula&layout=compact&langs_count=7&width=400" alt="Top Langs" />
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaB&show_icons=true&locale=en&hide=prs&theme=dracula&layout=compact"/>
+
 <h4>💻 Linguagens e Ferramentas</h2>
 <div align="left"> 
   <p>
