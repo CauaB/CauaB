@@ -1,7 +1,8 @@
 <h3>💬 Sobre</h3>
 
+- 👨‍💻 QA Trainee
 - 📚 Estudante de Sistemas de Informação pela Universidade Federal de Ouro Preto.
-- 👨‍💻 Focando no aprimoramento para desenvolvimento de software e QA.
+- 📈 Focando no aprimoramento para desenvolvimento de software e QA.
 
 ---
 
